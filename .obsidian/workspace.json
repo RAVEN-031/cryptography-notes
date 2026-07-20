@@ -11,10 +11,10 @@
             "id": "6153691bf59d8468",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -182,6 +182,13 @@
   },
   "active": "6153691bf59d8468",
   "lastOpenFiles": [
+    "Cryptohack/Elliptic Curves/Elliptic Curve Cryptography.md",
+    "Cryptohack/Diffie-Hellman/Diffie-Hellman.md",
+    "Cryptohack/Lattice/Lattice.md",
+    "Cryptohack/Elliptic Curves/Challenges/Elliptic Nodes.md",
+    "Cryptohack/Elliptic Curves/Challenges/Micro Transmission.md",
+    "Cryptohack/Diffie-Hellman/Challenges/The Matrix Reloaded.md",
+    "Cryptohack/Lattice/Challenges/Find The Lattice.md",
     "~/Documents/Cryptography",
     "~/Documents",
     "~",
@@ -199,7 +206,6 @@
     "Lattice/Challenges/Find The Lattice.md",
     "Lattice/Challenges",
     "Lattice",
-    "Notes",
     "Diffie-Hellman/Challenges/The Matrix Reloaded.md",
     "Welcome.md"
   ]

@@ -14,3 +14,4 @@ $$4a^3 + 27b^2 \ne 0$$
 # Challenges
 
 - [[Micro Transmission]] (Small private key size attack)
+- [[Elliptic Nodes]] (Singular elliptic curve)

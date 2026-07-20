@@ -10,4 +10,4 @@ $$\begin{align}S = A^b &\bmod p \\
 S = g^{ab} &\bmod p\end{align}$$
 # Challenges
 
-- [The Matrix Reloaded](obsidian://open?vault=Cryptohack&file=The%20Matrix%20Reloaded)
+- [[The Matrix Reloaded]]
