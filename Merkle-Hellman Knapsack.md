@@ -5,7 +5,7 @@ A knapsack is a set of different nonzero natural numbers. If such set can be arr
 
 # Public Key
 
-- Hard Knapsack, used only for encryption
+- Hard Knapsack, used only for encryption.
 
 # Private Key
 
