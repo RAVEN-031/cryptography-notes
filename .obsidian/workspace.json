@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merkle-Hellman Knapsack.md",
+                "file": "Lattice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merkle-Hellman Knapsack"
+              "title": "Lattice"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "f5fae532056d3555",
   "lastOpenFiles": [
-    "Lattice.md",
-    "Merkle-Hellman Knapsack.md",
-    "Diffie-Hellman.md",
     "Elliptic Curve Cryptography.md",
+    "Diffie-Hellman.md",
+    "Merkle-Hellman Knapsack.md",
+    "Lattice.md",
     "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
     "Cryptohack/Elliptic Curves/Micro Transmission.md",
     "Cryptohack/Diffie-Hellman/The Matrix Reloaded.md",

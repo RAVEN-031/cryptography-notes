@@ -1,4 +1,3 @@
-# Definition
 
 Elliiptic Curves are often described with the Weierstrass equations which are of the form
 $$E:Y^2 = X^3 + aX + b$$
