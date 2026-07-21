@@ -10,3 +10,5 @@ A knapsack is a set of different nonzero natural numbers. If such set can be arr
 # Private Key
 
 - Superincreasing Knapsack
+- Multiplier $n$
+- Modulus $m$
