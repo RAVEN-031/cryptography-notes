@@ -6,4 +6,3 @@ The set of vectors $B = {v_1, ..., v_n}$ is called the basis with $L = L(B)$ spa
 # Challenges
 
 - [[Find The Lattice]]
-- 

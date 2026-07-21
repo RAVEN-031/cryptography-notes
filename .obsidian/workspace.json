@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
+                "file": "Lattice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elliptic Nodes"
+              "title": "Lattice"
             }
           }
         ]
@@ -186,11 +186,11 @@
   },
   "active": "f5fae532056d3555",
   "lastOpenFiles": [
+    "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
     "Cryptohack/Elliptic Curves/Micro Transmission.md",
     "Elliptic Curve Cryptography.md",
     "Diffie-Hellman.md",
     "Lattice.md",
-    "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
     "Cryptohack/Diffie-Hellman/The Matrix Reloaded.md",
     "Cryptohack/Lattice/Find The Lattice.md",
     "~/Documents/Cryptography",
