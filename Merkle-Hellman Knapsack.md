@@ -1,5 +1,5 @@
 ---
-aliases:
+
 ---
 
 # Knapsack
