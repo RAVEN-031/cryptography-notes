@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c69d0e336da8a8fe",
+        "id": "919c84bb6a9667c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6153691bf59d8468",
+            "id": "f5fae532056d3555",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elliptic Nodes"
             }
           }
         ]
@@ -180,15 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6153691bf59d8468",
+  "active": "f5fae532056d3555",
   "lastOpenFiles": [
-    "Cryptohack/Elliptic Curves/Elliptic Curve Cryptography.md",
-    "Cryptohack/Diffie-Hellman/Diffie-Hellman.md",
-    "Cryptohack/Lattice/Lattice.md",
-    "Cryptohack/Elliptic Curves/Challenges/Elliptic Nodes.md",
-    "Cryptohack/Elliptic Curves/Challenges/Micro Transmission.md",
-    "Cryptohack/Diffie-Hellman/Challenges/The Matrix Reloaded.md",
-    "Cryptohack/Lattice/Challenges/Find The Lattice.md",
+    "Cryptohack/Elliptic Curves/Micro Transmission.md",
+    "Elliptic Curve Cryptography.md",
+    "Diffie-Hellman.md",
+    "Lattice.md",
+    "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
+    "Cryptohack/Diffie-Hellman/The Matrix Reloaded.md",
+    "Cryptohack/Lattice/Find The Lattice.md",
     "~/Documents/Cryptography",
     "~/Documents",
     "~",

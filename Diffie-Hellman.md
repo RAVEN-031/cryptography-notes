@@ -8,6 +8,6 @@ and sends it to Bob.
 Bob picks private key $b$ and computes the Shared Secret.
 $$\begin{align}S = A^b &\bmod p \\
 S = g^{ab} &\bmod p\end{align}$$
-# Challenges
+# Cryptohack Challenges
 
 - [[The Matrix Reloaded]]
