@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elliptic Curve Cryptography.md",
+                "file": "Cryptohack/Elliptic Curves/A Twisted Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elliptic Curve Cryptography"
+              "title": "A Twisted Mind"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "f5fae532056d3555",
   "lastOpenFiles": [
-    "Lattice.md",
     "Elliptic Curve Cryptography.md",
+    "Cryptohack/Elliptic Curves/A Twisted Mind.md",
+    "Lattice.md",
     "Diffie-Hellman.md",
     "Merkle-Hellman Knapsack.md",
     "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
