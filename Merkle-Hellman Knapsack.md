@@ -1,3 +1,6 @@
+---
+aliases:
+---
 
 # Knapsack
 
