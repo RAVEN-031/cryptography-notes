@@ -4,7 +4,11 @@ The set of vectors $B = {v_1, ..., v_n}$ is called the basis with $L = L(B)$ spa
 
 # Shortest Vector Problem (SVP)
 
-sss
+Finding the shortest non-zero vector in a lattice $L$
+
+# Closest Vector Problem (CVP)
+
+Given a vector $w \in R^m$ but not in lattice $L$, find the vector $v \in L$ such that $||$ 
 
 # Cryptosystems
 
