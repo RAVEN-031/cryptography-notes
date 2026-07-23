@@ -8,7 +8,7 @@ Finding the shortest non-zero vector in a lattice $L$
 
 # Closest Vector Problem (CVP)
 
-Given a vector $w \in R^m$ but not in lattice $L$, find the vector $v \in L$ such that $||$ 
+Given a vector $w \in R^m$ but not in lattice $L$, find the vector $v \in L$ such that $||v-w||$ is minimized. 
 
 # Cryptosystems
 
