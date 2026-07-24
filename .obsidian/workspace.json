@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lattice.md",
+                "file": "Birthday Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lattice"
+              "title": "Birthday Problem"
             }
           }
         ]
@@ -186,10 +186,13 @@
   },
   "active": "f5fae532056d3555",
   "lastOpenFiles": [
+    "Cryptohack/Hash/Jack's Birthday Hash.md",
+    "Birthday Problem.md",
+    "Lattice.md",
+    "Cryptohack/Hash",
     "Elliptic Curve Cryptography.md",
     "Merkle-Hellman Knapsack.md",
     "Cryptohack/Elliptic Curves/A Twisted Mind.md",
-    "Lattice.md",
     "Diffie-Hellman.md",
     "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
     "Cryptohack/Elliptic Curves/Micro Transmission.md",
@@ -211,7 +214,6 @@
     "Diffie-Hellman",
     "Lattice/Challenges/Find The Lattice.md",
     "Lattice/Challenges",
-    "Lattice",
     "Diffie-Hellman/Challenges/The Matrix Reloaded.md",
     "Welcome.md"
   ]
