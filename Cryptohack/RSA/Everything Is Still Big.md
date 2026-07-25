@@ -17,3 +17,9 @@ ed &\equiv 1 &\bmod \varphi(N) \\
 1 &= ed - k\frac{\varphi(N)}{2} \\\\
 k &= 2k_0
 \end{align}$$
+Because RSA's totient function can be expressed as
+$$\begin{align}
+\varphi(N) &= (p-1)(q-1) \\
+\varphi(N) &= pq - p - q + 1 \\
+\varphi(N) &= N - p - q + 1
+\end{align}$$
