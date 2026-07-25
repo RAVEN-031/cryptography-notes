@@ -12,6 +12,7 @@ Since the implementations for boneh-durfee I found online keep failing, I chose 
 
 Consider standard RSA $e, d$ relationship.
 $$\begin{align}
-ed &\equiv 1 &\bmod \phi(N) \\
-1 &= ed + k\phi(N)
+ed &\equiv 1 &\bmod \varphi(N) \\
+1 &= ed - 2k_0\frac{\varphi(N)}{2} \\
+1 &= 
 \end{align}$$
