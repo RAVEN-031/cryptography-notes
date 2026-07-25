@@ -10,4 +10,8 @@ $$d < 3\sqrt[4]{N}$$
 
 Since the implementations for boneh-durfee I found online keep failing, I chose to make my own.
 
-Consider standard 
+Consider standard RSA $e, d$ relationship.
+$$\begin{align}
+ed &\equiv 1 &\bmod \phi(N) \\
+1 &= ed + k\phi(N)
+\end{align}$$
