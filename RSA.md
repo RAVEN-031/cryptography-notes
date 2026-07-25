@@ -1,4 +1,5 @@
 
 # Challenges
 
-- [[Everything Is Still Big]] (Small d out of wiener's constraints)
+- [[Everything Is Still Big]] (Boneh-Durfee Attack)
+- [[Endless Emails]] (Hastad's Broadcast Attack)
