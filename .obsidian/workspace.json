@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptohack/RSA/Endless Emails.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endless Emails"
+              "title": "Untitled"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,8 +188,9 @@
   },
   "active": "11b92b3c46f86be2",
   "lastOpenFiles": [
-    "Cryptohack/RSA/Everything Is Still Big.md",
     "Cryptohack/RSA/Endless Emails.md",
+    "Untitled.md",
+    "Cryptohack/RSA/Everything Is Still Big.md",
     "RSA.md",
     "Untitled.canvas",
     "Diffie-Hellman.md",
