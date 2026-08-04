@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coppersmith-curve.md",
+                "file": "Cryptohack/RSA/Endless Emails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coppersmith-curve"
+              "title": "Endless Emails"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "11b92b3c46f86be2",
   "lastOpenFiles": [
-    "Cryptohack/RSA/Endless Emails.md",
     "coppersmith-curve.md",
+    "Cryptohack/RSA/Endless Emails.md",
     "Cryptohack/RSA/Everything Is Still Big.md",
     "RSA.md",
     "Untitled.canvas",
