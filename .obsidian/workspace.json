@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptohack/RSA/Endless Emails.md",
+                "file": "Cryptohack/RSA/Marin's Secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endless Emails"
+              "title": "Marin's Secrets"
             }
           }
         ]
@@ -189,6 +189,7 @@
   "active": "11b92b3c46f86be2",
   "lastOpenFiles": [
     "Cryptohack/RSA/Everything Is Still Big.md",
+    "Cryptohack/RSA/Marin's Secrets.md",
     "Cryptohack/RSA/Endless Emails.md",
     "coppersmith-curve.md",
     "RSA.md",
