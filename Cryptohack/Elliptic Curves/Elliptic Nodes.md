@@ -5,7 +5,7 @@ Standard ECC encryption but with the $a, b$ parameters of the curve kept in secr
 Known:
 - Prime field number
 - Generator points
-- Point $Q = [FLAG] G$
+- Point $Q=[FLAG]G$
 Knowing two points on the same curve is enough to retrieve the parameters of the curve.
 
 # Solution
