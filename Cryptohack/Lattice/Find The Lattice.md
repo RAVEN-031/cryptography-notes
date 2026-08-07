@@ -42,6 +42,7 @@ $$
 Note: $rg$ is gone because the operation is done with modulus g and $rg$ is a multiple of g
 
 # Lattice?
+
 $$
 \begin{align}
 h &\equiv f^-1 * g &\bmod{q} \\

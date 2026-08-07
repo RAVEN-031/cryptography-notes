@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptohack/RSA/Endless Emails.md",
+                "file": "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endless Emails"
+              "title": "Elliptic Nodes"
             }
           }
         ]
@@ -188,9 +188,11 @@
   },
   "active": "11b92b3c46f86be2",
   "lastOpenFiles": [
+    "Cryptohack/Lattice/Find The Lattice.md",
+    "Elliptic Curve Cryptography.md",
+    "Cryptohack/RSA/Endless Emails.md",
     "Cryptohack/RSA/Everything Is Still Big.md",
     "Cryptohack/RSA/Marin's Secrets.md",
-    "Cryptohack/RSA/Endless Emails.md",
     "coppersmith-curve.md",
     "RSA.md",
     "Untitled.canvas",
@@ -201,16 +203,14 @@
     "Birthday Problem.md",
     "Cryptohack/RSA",
     "Cryptohack/Hash",
-    "Elliptic Curve Cryptography.md",
     "Cryptohack/Elliptic Curves/A Twisted Mind.md",
     "Cryptohack/Elliptic Curves/Elliptic Nodes.md",
     "Cryptohack/Elliptic Curves/Micro Transmission.md",
     "Cryptohack/Diffie-Hellman/The Matrix Reloaded.md",
-    "Cryptohack/Lattice/Find The Lattice.md",
     "~/Documents/Cryptography",
     "~/Documents",
     "~",
-    "assets/Pasted image 20260719174144.png",
+    "assets/point-addition.png.png",
     "Elliptic Curves/Elliptic Curve Cryptography.md",
     "Elliptic Curves/Challenges/Micro Transmission.md",
     "assets",
